@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/QuentinN42/golang-boilerplate/pkg/env"
-	"github.com/QuentinN42/golang-boilerplate/pkg/logfmt"
-	"github.com/QuentinN42/golang-boilerplate/pkg/telemetry"
+	"github.com/QuentinN42/golang-boilerplate/pkg/sdk/env"
+	"github.com/QuentinN42/golang-boilerplate/pkg/sdk/logfmt"
+	"github.com/QuentinN42/golang-boilerplate/pkg/sdk/telemetry"
 )
 
 type Envs struct {

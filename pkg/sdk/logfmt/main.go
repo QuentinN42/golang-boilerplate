@@ -1,7 +1,7 @@
 package logfmt
 
 import (
-	"github.com/QuentinN42/golang-boilerplate/pkg/telemetry"
+	"github.com/QuentinN42/golang-boilerplate/pkg/sdk/telemetry"
 )
 
 var logger = telemetry.NewLogger()
